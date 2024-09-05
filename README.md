@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=aws&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/Cloud-Azure-0078D4?logo=azure&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/VCS-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Hub-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Hub-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
